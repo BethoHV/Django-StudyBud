@@ -1,2 +1,6 @@
 .\env\Scripts\activate - Ativa o env
 .\manage.py runserver - roda o servidor
+
+
+superuser
+    betho
